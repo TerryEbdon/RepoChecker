@@ -1,3 +1,4 @@
+@rem /* SPDX-License-Identifier: Apache-2.0 */
 @echo off
 
 @rem Create labels if they don't exist
