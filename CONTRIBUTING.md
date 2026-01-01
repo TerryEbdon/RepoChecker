@@ -41,8 +41,10 @@ that covers the project.
 
 ## Reporting bugs
 
+[opening a new issue]: (https://github.com/TerryEbdon/RepoChecker/issues)
+
 GitHub issues are used to track public bugs. Report a bug by
-[opening a new issue](https://github.com/TerryEbdon/RepoChecker/issues);
+[opening a new issue]. Please include:
 
 - A short summary and background
 - Steps to reproduce (be specific)
