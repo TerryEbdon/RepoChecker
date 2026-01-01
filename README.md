@@ -26,11 +26,11 @@ for any missing ones.
 Open PowerShell or CMD in the repository root and run:
 
 ```batch
-.\AddIssues.cmd
+AddIssues.cmd
 ```
 
 This will:
 
-- create the `meta` label (if missing).
+- Create the `meta` label (if missing).
 - Reset the meta label to a standard colour.
 - Open issues assigned to you, for each missing file.
