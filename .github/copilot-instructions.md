@@ -1,8 +1,8 @@
 # Project Overview
 
 This project is a Windows command-line application implemented as a batch file.
-It checks the current repository for missing files and raises GitHub isues to
-fix problems. This is only usable wih GitGub. It must only run with the Windows
+It checks the current repository for missing files and raises GitHub issues to
+fix problems. This is only usable with GitHub. It must only run with the Windows
 command processor, `cmd.exe`.
 
 ## Folder Structure
